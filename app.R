@@ -23,6 +23,9 @@ if(!require(shinythemes)) install.packages("shinythemes")
 if(!require(shinyFiles)) install.packages("shinyFiles")
 if(!require(caret)) install.packages("caret")
 if(!require(psych)) install.packages("psych")
+if(!require(e1071)) install.packages("e1071")
+if(!require(cowplot)) install.packages("cowplot")
+if(!require(RColorBrewer)) install.packages("RColorBrewer")
 
 library(xlsx)
 library(tidyverse)
@@ -31,6 +34,8 @@ library(shinythemes)
 library(shinyFiles)
 library(caret)
 library(psych)
+library(cowplot)
+library(RColorBrewer)
 
 #------------------------------------------------------------------------------
 #This information is specific to Turtle Project
