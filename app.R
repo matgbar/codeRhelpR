@@ -7,6 +7,9 @@
 #    http://shiny.rstudio.com/
 #
 
+# The most recent version of this program is available on GitHub
+# If used in academic and professional products please cite: 
+
 #------------------------------------------------------------------------------
 #Will need to have these packages installed  
 #Packages required will download if you do not have them
@@ -1070,7 +1073,7 @@ server <- function(input, output, session) {
                               height = .75, 
                               alpha = .5, 
                               show.legend = FALSE)+
-                    labs(title = paste("Group Play Partner Codes Coded by:", 
+                    labs(title = paste("Play Codes Coded by:", 
                                        rv$coder_1), 
                          subtitle = paste("Target ID:", input$target_id), 
                          y = "Play Code", 
@@ -1092,7 +1095,7 @@ server <- function(input, output, session) {
                               height = .75, 
                               alpha = .5, 
                               show.legend = FALSE)+
-                    labs(title = paste("Group Play Partner Codes Coded by:", 
+                    labs(title = paste("Play Codes Coded by:", 
                                        rv$coder_2), 
                          subtitle = paste("Target ID:", input$target_id), 
                          y = "Play Code", 
@@ -1143,7 +1146,7 @@ server <- function(input, output, session) {
                                    color = Match), 
                                alpha = .5, 
                                size = 15)+
-                    labs(title = paste("Group Play Partner Codes Coded by:", 
+                    labs(title = paste("Play Codes Coded by:", 
                                        rv$coder_1), 
                          subtitle = paste("Target ID:", input$target_id), 
                          y = "Play Code", 
@@ -1179,7 +1182,7 @@ server <- function(input, output, session) {
                                    color = Match), 
                                alpha = .5, 
                                size = 15)+
-                    labs(title = paste("Group Play Partner Codes Coded by:", 
+                    labs(title = paste("Play Codes Coded by:", 
                                        rv$coder_2), 
                          subtitle = paste("Target ID:", input$target_id), 
                          y = "Play Code", 
