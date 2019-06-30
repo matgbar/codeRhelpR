@@ -1,0 +1,13 @@
+Codes	Type	Family
+Grp	Duration	Y
+Par	Duration	Y
+Bid_succ	Event	Y
+Bid_fail	Event	Y
+Rec_succ	Event	Y
+Rec_fail	Event	Y
+Anx	Duration	N
+Agg	Duration	N
+Pos	Duration	N
+RnT	Duration	N
+Bid_tch	Event	N
+Rec_tch	Event	N

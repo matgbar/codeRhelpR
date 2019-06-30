@@ -1,0 +1,261 @@
+Time_Relative_sf	Observation	Event_Log	Behavior
+0	C8_wk8_102_HF	Event log	Grp057
+5.90578	C8_wk8_102_HF	Event log	
+9.34248	C8_wk8_102_HF	Event log	
+11.578	C8_wk8_102_HF	Event log	Bid_fail060
+20.6869	C8_wk8_102_HF	Event log	
+28.895	C8_wk8_102_HF	Event log	
+36.6025	C8_wk8_102_HF	Event log	
+43.0088	C8_wk8_102_HF	Event log	Pos
+44.8439	C8_wk8_102_HF	Event log	
+47.18	C8_wk8_102_HF	Event log	Par062
+47.6466	C8_wk8_102_HF	Event log	
+48.6143	C8_wk8_102_HF	Event log	Bid_succ057
+50.55	C8_wk8_102_HF	Event log	Grp057
+57.8566	C8_wk8_102_HF	Event log	
+58.3905	C8_wk8_102_HF	Event log	
+59.5917	C8_wk8_102_HF	Event log	Pos
+63.629	C8_wk8_102_HF	Event log	
+67.1658	C8_wk8_102_HF	Event log	
+68.5671	C8_wk8_102_HF	Event log	
+68.9675	C8_wk8_102_HF	Event log	Bid_succ065
+69.1344	C8_wk8_102_HF	Event log	Rec_tch
+75.0068	C8_wk8_102_HF	Event log	
+76.0077	C8_wk8_102_HF	Event log	Bid_succ068
+76.7084	C8_wk8_102_HF	Event log	
+77.7428	C8_wk8_102_HF	Event log	
+82.0804	C8_wk8_102_HF	Event log	Par062
+83.1814	C8_wk8_102_HF	Event log	
+90.19	C8_wk8_102_HF	Event log	Par063
+95.1932	C8_wk8_102_HF	Event log	Grp063
+100.465	C8_wk8_102_HF	Event log	
+103.468	C8_wk8_102_HF	Event log	
+107.572	C8_wk8_102_HF	Event log	
+111.242	C8_wk8_102_HF	Event log	
+125.756	C8_wk8_102_HF	Event log	Grp063
+125.756	C8_wk8_102_HF	Event log	Par063
+128.359	C8_wk8_102_HF	Event log	Rec_fail060
+132.964	C8_wk8_102_HF	Event log	
+140.538	C8_wk8_102_HF	Event log	Rec_fail062
+148.245	C8_wk8_102_HF	Event log	Rec_fail063
+151.782	C8_wk8_102_HF	Event log	
+181.077	C8_wk8_102_HF	Event log	Grp065
+198.795	C8_wk8_102_HF	Event log	Grp062
+219.782	C8_wk8_102_HF	Event log	Bid_fail063
+225.754	C8_wk8_102_HF	Event log	Par068
+226.522	C8_wk8_102_HF	Event log	
+231.527	C8_wk8_102_HF	Event log	
+231.927	C8_wk8_102_HF	Event log	Bid_succ062
+232.561	C8_wk8_102_HF	Event log	Bid_fail063
+234.93	C8_wk8_102_HF	Event log	
+239.001	C8_wk8_102_HF	Event log	
+240.569	C8_wk8_102_HF	Event log	Rec_succ057
+240.702	C8_wk8_102_HF	Event log	Grp063
+249.678	C8_wk8_102_HF	Event log	
+250.345	C8_wk8_102_HF	Event log	Rec_fail057
+255.917	C8_wk8_102_HF	Event log	Par068
+259.321	C8_wk8_102_HF	Event log	Par065
+259.754	C8_wk8_102_HF	Event log	Grp063
+263.691	C8_wk8_102_HF	Event log	
+265.226	C8_wk8_102_HF	Event log	
+265.59	C8_wk8_102_HF	Event log	Grp065
+278.573	C8_wk8_102_HF	Event log	
+288.516	C8_wk8_102_HF	Event log	
+290.051	C8_wk8_102_HF	Event log	Bid_fail068
+290.851	C8_wk8_102_HF	Event log	Grp062
+296.035	C8_wk8_102_HF	Event log	Rec_succ062
+297.324	C8_wk8_102_HF	Event log	Bid_fail065
+301.162	C8_wk8_102_HF	Event log	
+317.177	C8_wk8_102_HF	Event log	Par065
+328.79	C8_wk8_102_HF	Event log	Bid_succ063
+330.223	C8_wk8_102_HF	Event log	
+334.16	C8_wk8_102_HF	Event log	Grp068
+341.601	C8_wk8_102_HF	Event log	Bid_succ063
+345.438	C8_wk8_102_HF	Event log	Bid_fail065
+349.976	C8_wk8_102_HF	Event log	Bid_fail057
+357.784	C8_wk8_102_HF	Event log	Grp068
+374.767	C8_wk8_102_HF	Event log	Par057
+378.737	C8_wk8_102_HF	Event log	Agg
+396.722	C8_wk8_102_HF	Event log	Par057
+398.59	C8_wk8_102_HF	Event log	
+400.05	C8_wk8_102_HF	Event log	Agg
+400.392	C8_wk8_102_HF	Event log	
+419.844	C8_wk8_102_HF	Event log	
+425.383	C8_wk8_102_HF	Event log	
+426.05	C8_wk8_102_HF	Event log	Grp060
+426.05	C8_wk8_102_HF	Event log	RnT
+426.05	C8_wk8_102_HF	Event log	Rec_succ060
+431.623	C8_wk8_102_HF	Event log	
+447.772	C8_wk8_102_HF	Event log	
+451.442	C8_wk8_102_HF	Event log	Par060
+451.509	C8_wk8_102_HF	Event log	
+454.545	C8_wk8_102_HF	Event log	RnT
+456.614	C8_wk8_102_HF	Event log	Anx
+464.288	C8_wk8_102_HF	Event log	Grp060
+472.296	C8_wk8_102_HF	Event log	
+473.497	C8_wk8_102_HF	Event log	Par060
+475.84	C8_wk8_102_HF	Event log	Anx
+479.57	C8_wk8_102_HF	Event log	
+485.308	C8_wk8_102_HF	Event log	Rec_succ065
+486.61	C8_wk8_102_HF	Event log	
+496.786	C8_wk8_102_HF	Event log	Bid_succ060
+499.756	C8_wk8_102_HF	Event log	
+501.024	C8_wk8_102_HF	Event log	Rec_succ068
+502.358	C8_wk8_102_HF	Event log	
+509.432	C8_wk8_102_HF	Event log	Par065
+511.434	C8_wk8_102_HF	Event log	Bid_tch
+516.506	C8_wk8_102_HF	Event log	
+520.009	C8_wk8_102_HF	Event log	Grp068
+526.883	C8_wk8_102_HF	Event log	
+528.117	C8_wk8_102_HF	Event log	Par065
+530.92	C8_wk8_102_HF	Event log	Rec_succ063
+533.089	C8_wk8_102_HF	Event log	Bid_succ060
+538.127	C8_wk8_102_HF	Event log	Bid_succ060
+538.694	C8_wk8_102_HF	Event log	Grp068
+550.372	C8_wk8_102_HF	Event log	Rec_succ057
+551.673	C8_wk8_102_HF	Event log	Bid_tch
+560.816	C8_wk8_102_HF	Event log	Par068
+568.09	C8_wk8_102_HF	Event log	Bid_fail060
+572.661	C8_wk8_102_HF	Event log	
+582.937	C8_wk8_102_HF	Event log	Bid_fail062
+583.071	C8_wk8_102_HF	Event log	
+584.439	C8_wk8_102_HF	Event log	
+593.448	C8_wk8_102_HF	Event log	
+598.586	C8_wk8_102_HF	Event log	Rec_succ057
+599.454	C8_wk8_102_HF	Event log	Par068
+613.401	C8_wk8_102_HF	Event log	Rec_fail068
+615.46	C8_wk8_102_HF	Event log	Par065
+616.504	C8_wk8_102_HF	Event log	Rec_fail065
+618.027	C8_wk8_102_HF	Event log	Par065
+5.90578	C8_wk8_102_LD	Event log	
+9.34248	C8_wk8_102_LD	Event log	
+10	C8_wk8_102_LD	Event log	Grp057
+11.578	C8_wk8_102_LD	Event log	
+20.6869	C8_wk8_102_LD	Event log	Rec_succ057
+28.895	C8_wk8_102_LD	Event log	
+35.01	C8_wk8_102_LD	Event log	Pos
+36.6025	C8_wk8_102_LD	Event log	
+44.8439	C8_wk8_102_LD	Event log	
+46.5456	C8_wk8_102_LD	Event log	Grp057
+47.6466	C8_wk8_102_LD	Event log	
+48.6143	C8_wk8_102_LD	Event log	Bid_succ057
+49.1815	C8_wk8_102_LD	Event log	Par062
+57.8566	C8_wk8_102_LD	Event log	
+58.3905	C8_wk8_102_LD	Event log	
+59.5917	C8_wk8_102_LD	Event log	Pos
+63.629	C8_wk8_102_LD	Event log	
+67.1658	C8_wk8_102_LD	Event log	
+68.5671	C8_wk8_102_LD	Event log	
+68.9675	C8_wk8_102_LD	Event log	Rec_succ062
+69.1344	C8_wk8_102_LD	Event log	
+75.0068	C8_wk8_102_LD	Event log	
+76.0077	C8_wk8_102_LD	Event log	Bid_succ068
+76.7084	C8_wk8_102_LD	Event log	Rec_succ060
+77.7428	C8_wk8_102_LD	Event log	
+82.0804	C8_wk8_102_LD	Event log	Par062
+83.1814	C8_wk8_102_LD	Event log	
+95.1932	C8_wk8_102_LD	Event log	Grp063
+95.1932	C8_wk8_102_LD	Event log	Par063
+100.465	C8_wk8_102_LD	Event log	
+103.468	C8_wk8_102_LD	Event log	
+107.572	C8_wk8_102_LD	Event log	Grp060
+111.242	C8_wk8_102_LD	Event log	Grp060
+125.756	C8_wk8_102_LD	Event log	Grp063
+125.756	C8_wk8_102_LD	Event log	Par063
+128.359	C8_wk8_102_LD	Event log	Rec_fail060
+132.964	C8_wk8_102_LD	Event log	
+140.538	C8_wk8_102_LD	Event log	
+148.245	C8_wk8_102_LD	Event log	Rec_fail063
+151.782	C8_wk8_102_LD	Event log	
+181.077	C8_wk8_102_LD	Event log	Grp065
+198.795	C8_wk8_102_LD	Event log	
+216.112	C8_wk8_102_LD	Event log	Bid_succ065
+225.754	C8_wk8_102_LD	Event log	Par068
+226.522	C8_wk8_102_LD	Event log	
+231.527	C8_wk8_102_LD	Event log	
+231.927	C8_wk8_102_LD	Event log	Bid_succ062
+232.561	C8_wk8_102_LD	Event log	Bid_fail063
+234.93	C8_wk8_102_LD	Event log	
+239.001	C8_wk8_102_LD	Event log	
+249.678	C8_wk8_102_LD	Event log	
+250.345	C8_wk8_102_LD	Event log	Rec_fail057
+250.57	C8_wk8_102_LD	Event log	Rec_succ057
+250.78	C8_wk8_102_LD	Event log	Bid_fail063
+255.32	C8_wk8_102_LD	Event log	Par065
+255.917	C8_wk8_102_LD	Event log	Par068
+260.588	C8_wk8_102_LD	Event log	Grp065
+263.691	C8_wk8_102_LD	Event log	
+265.226	C8_wk8_102_LD	Event log	
+280.57	C8_wk8_102_LD	Event log	Grp062
+288.516	C8_wk8_102_LD	Event log	Grp062
+290.051	C8_wk8_102_LD	Event log	Bid_fail068
+295.32	C8_wk8_102_LD	Event log	Bid_fail065
+296.035	C8_wk8_102_LD	Event log	Rec_succ062
+301.162	C8_wk8_102_LD	Event log	
+317.177	C8_wk8_102_LD	Event log	Par065
+328.79	C8_wk8_102_LD	Event log	Bid_succ063
+330.223	C8_wk8_102_LD	Event log	
+334.16	C8_wk8_102_LD	Event log	Grp068
+341.601	C8_wk8_102_LD	Event log	Bid_succ063
+345.438	C8_wk8_102_LD	Event log	Bid_fail065
+349.976	C8_wk8_102_LD	Event log	Bid_fail057
+357.784	C8_wk8_102_LD	Event log	Grp068
+370.77	C8_wk8_102_LD	Event log	Par057
+378.737	C8_wk8_102_LD	Event log	Agg
+383.275	C8_wk8_102_LD	Event log	Bid_succ068
+394.052	C8_wk8_102_LD	Event log	Agg
+396.722	C8_wk8_102_LD	Event log	Par057
+398.59	C8_wk8_102_LD	Event log	
+400.392	C8_wk8_102_LD	Event log	
+419.844	C8_wk8_102_LD	Event log	
+425.383	C8_wk8_102_LD	Event log	
+426.05	C8_wk8_102_LD	Event log	Grp060
+426.05	C8_wk8_102_LD	Event log	Rec_succ060
+426.651	C8_wk8_102_LD	Event log	Pos
+430.05	C8_wk8_102_LD	Event log	RnT
+431.623	C8_wk8_102_LD	Event log	
+447.772	C8_wk8_102_LD	Event log	Rec_tch
+451.442	C8_wk8_102_LD	Event log	Par060
+451.509	C8_wk8_102_LD	Event log	
+454.545	C8_wk8_102_LD	Event log	RnT
+456.614	C8_wk8_102_LD	Event log	Anx
+464.288	C8_wk8_102_LD	Event log	Grp060
+472.296	C8_wk8_102_LD	Event log	
+473.497	C8_wk8_102_LD	Event log	Par060
+479.57	C8_wk8_102_LD	Event log	
+485.308	C8_wk8_102_LD	Event log	Rec_succ065
+485.84	C8_wk8_102_LD	Event log	Anx
+486.61	C8_wk8_102_LD	Event log	Pos
+496.786	C8_wk8_102_LD	Event log	Bid_succ060
+499.756	C8_wk8_102_LD	Event log	
+500.02	C8_wk8_102_LD	Event log	Rec_succ068
+502.358	C8_wk8_102_LD	Event log	Rec_succ068
+509.432	C8_wk8_102_LD	Event log	
+510.13	C8_wk8_102_LD	Event log	Grp063
+511.434	C8_wk8_102_LD	Event log	Bid_tch
+516.506	C8_wk8_102_LD	Event log	
+519.308	C8_wk8_102_LD	Event log	Grp063
+520.009	C8_wk8_102_LD	Event log	Grp068
+526.883	C8_wk8_102_LD	Event log	
+528.92	C8_wk8_102_LD	Event log	Rec_succ063
+533.089	C8_wk8_102_LD	Event log	
+538.694	C8_wk8_102_LD	Event log	Grp068
+540.13	C8_wk8_102_LD	Event log	Bid_succ060
+550.372	C8_wk8_102_LD	Event log	Rec_succ057
+551.673	C8_wk8_102_LD	Event log	Bid_tch
+560.816	C8_wk8_102_LD	Event log	
+562.351	C8_wk8_102_LD	Event log	Par068
+568.09	C8_wk8_102_LD	Event log	Bid_fail060
+572.661	C8_wk8_102_LD	Event log	
+577.699	C8_wk8_102_LD	Event log	Par068
+582.937	C8_wk8_102_LD	Event log	Bid_fail062
+583.071	C8_wk8_102_LD	Event log	
+584.439	C8_wk8_102_LD	Event log	
+592.447	C8_wk8_102_LD	Event log	Rec_fail065
+593.448	C8_wk8_102_LD	Event log	
+596.818	C8_wk8_102_LD	Event log	
+598.586	C8_wk8_102_LD	Event log	Rec_succ057
+607.461	C8_wk8_102_LD	Event log	Par065
+613.401	C8_wk8_102_LD	Event log	
+616.504	C8_wk8_102_LD	Event log	Rec_fail065
+618.027	C8_wk8_102_LD	Event log	Par065
