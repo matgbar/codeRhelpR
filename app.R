@@ -1437,7 +1437,7 @@ server <- function(input, output, session) {
                         labs(title = paste("Overlapping Play Codes:", rv$coder_1, 
                                            "&", 
                                            rv$coder_2), 
-                             caption = "Prepared using codeR helpR (v0.0.1) \n Matthew Barstead, Ph.D. (c) 2019", 
+                             caption = "Prepared using codeR helpR (v0.0.2) \n Matthew Barstead, Ph.D. (c) 2019", 
                              y = "Play Code", 
                              x = "Time (s)")+
                         scale_x_continuous(limits = c(rv$time.min-1, 
@@ -1515,7 +1515,7 @@ server <- function(input, output, session) {
                     scale_x_continuous(limits = c(rv$time.min-1, 
                                                   rv$time.max+1))+
                     labs(title = paste("Point Event Play Codes:", rv$coder_2), 
-                         caption = "Prepared using codeR helpR (v0.0.1) \n Matthew Barstead, Ph.D. (c) 2019", 
+                         caption = "Prepared using codeR helpR (v0.0.2) \n Matthew Barstead, Ph.D. (c) 2019", 
                          y = "Play Code", 
                          x = "Time (s)")+
                     scale_color_manual(values = c("Match" = RColorBrewer::brewer.pal(7, "Blues")[7], 
@@ -1533,7 +1533,7 @@ server <- function(input, output, session) {
                     annotate("text", x = mean(DF_tmp$Time), 
                              y = 5, size=10, label = text)+
                     labs(title = paste("Point Event Play Codes:", rv$coder_2), 
-                         caption = "Prepared using codeR helpR (v0.0.1) \n Matthew Barstead, Ph.D. (c) 2019", 
+                         caption = "Prepared using codeR helpR (v0.0.2) \n Matthew Barstead, Ph.D. (c) 2019", 
                          y = "Play Code", 
                          x = "Time (s)")+
                     theme_bw()
