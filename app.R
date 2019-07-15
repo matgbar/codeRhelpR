@@ -661,7 +661,7 @@ server <- function(input, output, session) {
                                 rownames(match_matrix) <- c("Yes", "No")
                                 
                                 if(sum(match_matrix) >= 3){
-                                    rv$conf_matrix_list[[c]] <- caret::confusionMatrix(match_matrix, 
+                                    rv$conf_matrix_list[[c]] <- caret::confusionMatrix(as.table(match_matrix), 
                                                                                        positive = "Yes")
                                 }
                                 
@@ -709,7 +709,7 @@ server <- function(input, output, session) {
                                 rownames(match_matrix) <- c("Yes", "No")
                                 
                                 if(sum(match_matrix) >= 3){
-                                    rv$conf_matrix_list[[c]] <- caret::confusionMatrix(match_matrix, 
+                                    rv$conf_matrix_list[[c]] <- caret::confusionMatrix(as.table(match_matrix), 
                                                                                        positive = "Yes")
                                 }
                                 
@@ -757,7 +757,7 @@ server <- function(input, output, session) {
                                 rownames(match_matrix) <- c("Yes", "No")
                                 
                                 if(sum(match_matrix) >= 3){
-                                    rv$conf_matrix_list[[c]] <- caret::confusionMatrix(match_matrix, 
+                                    rv$conf_matrix_list[[c]] <- caret::confusionMatrix(as.table(match_matrix), 
                                                                                        positive = "Yes")
                                 }
                                 
